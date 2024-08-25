@@ -56,7 +56,8 @@ DiffuseTexNames = [
     "_baseco",
     "_basecolor_var2",
     "_basecolor2",
-    "_dif"
+    "_dif",
+    "base_color"
 ]
 RoughTexNames = [
     "roughness",
